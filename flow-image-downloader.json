@@ -1,5 +1,5 @@
 {
   "version": "9.9.9",
-  "notes": "Orden de descarga arreglado y aviso de actualizacion anadido.",
+  "notes": "Fixed download order and added update notification.",
   "download": "https://github.com/youtubejuanfons/flow-tools/raw/refs/heads/main/flow-image-downloader.zip"
 }
